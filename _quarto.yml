@@ -3,13 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "erikalee"
+  title: "Erika Lee"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  about: 
+    template: trestles
+    links:
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/erika-lee-82585bb5/
+      - text: GitHub
+        href: https://github.com/erikalee9
+      - text: Email
+        href: mailto:erika.lee@colostate.edu
 
+  
 format:
   html:
     theme: cosmo
