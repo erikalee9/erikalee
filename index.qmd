@@ -1,11 +1,42 @@
 ---
-title: "erikalee"
+title: "Erika Lee"
+subtitle: "M.S. Watershed Science"
+image: erikalee_headshot.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/erika-lee-82585bb5/
+    - text: GitHub
+      href: https://github.com/erikalee9
+    - text: Email
+      href: mailto:erika.lee@colostate.edu
 ---
 
-This is a Quarto website.
+I am a hydrologist currently working on obtaining my M.S. in Watershed Science at Colorado State University. My research focuses on the effects of fire on snowpack and I am examining whether these effects impact the energy budget in post-fire landscapes. I have a background in pre- and post-fire environmental consulting, specializing in hazard assessments, mitigation projects and environmental planning.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Interests:
 
-```{r}
-1 + 1
-```
+-   Hydrologic effects of wildfire on mountainous watersheds
+
+-   Ecogeomorphology
+
+-   Conservation
+
+-   Environmental consulting
+
+Education:
+
+-   M.S. Candidate in Watershed Science
+
+    Colorado State University, 2023-present
+
+-   B.A. Environmental Studies
+
+    Prescott College, 2017-2019
+
+-   A.S. Natural Sciences
+
+    Sierra College, 2016-2017
